@@ -8,7 +8,9 @@ The Data_P3.xlsx uses fictitious students and class names to generate a reminder
 The reminder template is in Template_Reminder.xlsx.  The output reminder is renamed to P3_reminder.xlsx.
 
 Usage:
+```
 > ipython generator_main.py P3 Data_P3.xlsx
 Running script  generator_main.py
 Year level: P3, data file: Data_P3.xlsx
 template name: Template_Sheet
+```
